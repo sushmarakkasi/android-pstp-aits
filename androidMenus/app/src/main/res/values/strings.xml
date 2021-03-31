@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">androidMenus</string>
+    <string-array name="heronames">
+        <item>gandi</item>
+        <item>vivekandha</item>
+        <item>chaganti</item>
+        <item>prabhs</item>
+    </string-array>
+</resources>
